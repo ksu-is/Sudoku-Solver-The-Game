@@ -6,4 +6,4 @@
 - [x] Explored Python Code Related to Project
 - [ ] Create frame work and get a rough demo 
 - [ ] Link code to a GUI
-- [ ] 
+- [ ] Optimize GUI for multiple devices
